@@ -2,18 +2,18 @@
 API WebSocket para la app de puntuación (Node.js + Socket.io)
 
 ```markdown
-# 🔌 Task Points API
+# Task Points API
 
 Backend de tiempo real para la aplicación de estimación de tareas [`task-points-app`](https://github.com/jcarlosab/task-points-app). Utiliza Node.js, Express y Socket.IO.
 
-## 📦 Funcionalidades
+## Funcionalidades
 
 - Gestión de salas privadas/públicas.
 - Estimaciones en tiempo real vía WebSocket.
 - Expiración automática de salas inactivas.
 - Logs en consola para depuración.
 
-## ⚙️ Configuración
+## Configuración
 
 Crea un archivo `.env` con al menos:
 
